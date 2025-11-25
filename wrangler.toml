@@ -1,0 +1,11 @@
+name = "text-to-image-template"
+compatibility_date = "2024-01-01"
+
+[[ai.models]]
+model = "@cf/microsoft/resnet-50"
+
+[[ai.models]]
+model = "@cf/microsoft/phi-2"
+
+[[ai.models]]
+model = "@cf/stabilityai/stable-diffusion-xl-base-1.0"
